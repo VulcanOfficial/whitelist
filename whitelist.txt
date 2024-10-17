@@ -4,7 +4,7 @@ return {
         ["exampleHWID2"] = true,
     },
     verifiedUserIds = {
-        [12345678] = true,
+        [CE0B387C-B039-45C0-B391-EAB9F930E449] = true,
         [87654321] = true,
     }
 }
