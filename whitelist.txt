@@ -1,8 +1,4 @@
 return {
-    verifiedHWIDs = {
-        ["exampleHWID1"] = true,
-        ["exampleHWID2"] = true,
-    },
     verifiedUserIds = {
         [CE0B387C-B039-45C0-B391-EAB9F930E449] = true,
         [87654321] = true,
