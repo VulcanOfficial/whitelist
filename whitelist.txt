@@ -1,0 +1,10 @@
+return {
+    verifiedHWIDs = {
+        ["exampleHWID1"] = true,
+        ["exampleHWID2"] = true,
+    },
+    verifiedUserIds = {
+        [12345678] = true,
+        [87654321] = true,
+    }
+}
