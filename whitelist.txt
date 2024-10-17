@@ -1,6 +1,5 @@
 return {
     verifiedUserIds = {
-        ["CE0B387C-B039-45C0-B391-EAB9F930E449"] = true,  -- Use quotes for the GUID
-        [87654321] = true,  -- Numeric User ID can stay as is
+        [7435206998] = true,  -- Numeric User ID can stay as is
     }
 }
