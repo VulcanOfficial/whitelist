@@ -1,7 +1,7 @@
 return {
     verifiedUserIds = {
         [7435206998] = true,  -- Numeric User ID can stay as is
-        [7434830796] = true,  -- Numeric User ID can stay as is
+        [7491892357] = true,  -- Numeric User ID can stay as is
 
     }
 }
