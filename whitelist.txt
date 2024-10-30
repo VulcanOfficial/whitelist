@@ -3,5 +3,6 @@ return {
         [7435206998] = true,
         [7491892357] = true,  -- Numeric User ID can stay as is
         [7435206998] = true,
+        [7523708320] = true,
     }
 }
